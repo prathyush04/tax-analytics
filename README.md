@@ -239,6 +239,16 @@ Type a question in plain English and get an answer based on the dataset.
 
 ---
 
+## Screenshots
+
+**Dashboard**
+![Dashboard](images/image.png)
+
+**AI Chat Assistant**
+![AI Chat](images/Screenshot%202026-05-24%20173748.png)
+
+---
+
 ## Notes
 
 - The app works out of the box with no database. Set `USE_DB=false` (or omit it) to use JSON mode.
