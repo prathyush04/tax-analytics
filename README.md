@@ -245,7 +245,7 @@ Type a question in plain English and get an answer based on the dataset.
 ![Dashboard](images/Screenshot%202026-05-24%20173748.png)
 
 **AI Chat Assistant**
-![AI Chat](images.image.png)
+![AI Chat](images/image.png)
 
 ---
 
